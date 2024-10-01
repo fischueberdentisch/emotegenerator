@@ -1,0 +1,14 @@
+@font-face {
+    font-family: OpenSans;
+    src: url('../fonts/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+
+@font-face {
+    font-family: SourceCodePro;
+    src: url('../fonts/SourceCodePro-VariableFont_wght.ttf');
+}
+
+* {
+    color-scheme: dark;
+    font-family: OpenSans;
+}
